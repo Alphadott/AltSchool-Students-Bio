@@ -42,7 +42,7 @@ You don’t have to become a lifelong contributor to enjoy participating in open
 
 -  Navigate to your local repository i.e cd Cloudlord-and-pals
 
-- Add the project repository as the "upstream" remote i.e git remote add upstream https://github.com/Cloudlordd/Cloudlord-and-pals.git.
+- Add the project repository as the "upstream" remote i.e git remote add upstream https://github.com/Alphadott/AltSchool-Students-Bio
 
 - Pull the latest changes from upstream into your local repository i.e git pull upstream main
 
